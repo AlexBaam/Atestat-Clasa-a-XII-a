@@ -1,0 +1,1 @@
+Acesta este atestatul meu de clasa a doisprezecea, doar o pagina despre "Anime si Manga" realizata de mine folosind HTML si CSS, si foarte putin JavaScript. 
